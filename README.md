@@ -1,0 +1,10 @@
+## Nvim
+
+my neovim settings
+
+
+
+
+
+
+
